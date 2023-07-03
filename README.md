@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
- I'm a Game Developer 🚀!
+ ## I'm a Game Developer 🚀!
 - 🔭 I have a part time job
 - 🌱 I’m currently learning 😂
 - 👯 I love to learn so I always add new things to myself.
@@ -11,7 +11,7 @@
 ### 📩 Connect with me:
 
 
-[<img align="left" height="24" width="24" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg" />][instagram]
+[<img align="left" height="24" width="24" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
 
 
 <br />
@@ -39,13 +39,13 @@
 
 ### GitHub Analytics 📊
 
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yAnciosodev&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
+   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=yAnciosodev&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
 </a>
 
 <br />
 <br />
 
-[instagram]: https://www.instagram.com/ibrahim_talha_demir
+[instagram]: https://www.instagram.com/yancioso.hub
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
 [android]: https://www.android.com/

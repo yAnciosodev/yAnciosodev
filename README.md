@@ -47,7 +47,7 @@
 
 [instagram]: https://www.instagram.com/yancioso.hub
 [vsCode]: https://code.visualstudio.com/
-[git]: https://git-scm.com/
+[git]: discord.com/channels/1125458564085989386
 [android]: https://www.android.com/
 [python]: https://www.python.org/
 [ios]: https://www.apple.com/ios/ios-14/
